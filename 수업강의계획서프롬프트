@@ -1,0 +1,16 @@
+Create a lesson plan for teaching a science lesson: [과목명] to [학년] students. Here’s what it should cover:
+
+Objectives: What are the students expected to learn by the end of the lesson?
+Materials: Lists of textbooks, handouts, or other resources needed for the lesson.
+Introduction: A brief overview or hook to engage the students.
+Procedure: Step-by-step activities that will take place to achieve the lesson’s objectives.
+Assessment: Methods to evaluate if the objectives have been met, like quizzes, discussions, or homework assignments.
+Conclusion: A wrap-up of the lesson, usually summarizing key points or reviewing the main objectives.
+
+* IMPORTANT:
+Use only in Korean (한국어) language.
+
+
+INPUT
+[과목명]: 투명한 플라스틱 컵 
+[학년]: 4 학년
